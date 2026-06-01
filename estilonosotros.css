@@ -1,0 +1,33 @@
+* {
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Bebas neue, Oswald, Nunita;
+}
+
+#encabezado {
+  background-color: #008080;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  height: auto;
+}
+
+.navbar {
+        margin: 0 px;
+        padding: 0 px;
+        text-align: left;
+        font-size: 18px;
+        list-style-type:none;
+        height: auto;
+        background-color: #E6E6FA;
+        }
+
+#columna_principal {
+  float: left;
+  width: 100%;
+  background-color: #66CDAA;
+}
+
